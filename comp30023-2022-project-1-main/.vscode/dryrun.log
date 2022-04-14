@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `c:/COMP30023/comp30023-2022-project-1-main'
+make.exe: Leaving directory `c:/COMP30023/comp30023-2022-project-1-main'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+ 
